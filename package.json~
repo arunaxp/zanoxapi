@@ -1,0 +1,18 @@
+{
+  "author": {
+    "name": "Aruna Jayathilaka",
+    "email": "arunaxp@gmail.com"
+  },
+  "name": "zanox_api",
+  "version": "1.0.0",
+  "dependencies": {
+    "hat": "0.0.3",
+    "underscore": "1.4.4",
+    "async": "0.2.8"
+  },
+  "main": "lib/zanox",
+  "readme": "Zanox Api written in JS|Node",
+  "_id": "zanox_api@1.0.0",
+  "description": "Zanox api written in JS|Node",
+  "_from": "zanox_api@~1.0.0"
+}
